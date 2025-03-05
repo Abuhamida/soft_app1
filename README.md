@@ -196,23 +196,9 @@ your-project/
    ```
 5. Submit a pull request.
 
----
-
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## **Contact**
 For questions or feedback, please contact:
 - **Your Name:** mohamedabuhamida3@gmail.com
 - **GitHub:** [abuhamida](https://github.com/abuhamida)
 
----
-
-### **How to Use This README**
-1. Replace placeholders like `your-username`, `your-repo-name`, and `your-email@example.com` with your actual details.
-2. Add a `LICENSE` file if you want to include a license for your project.
-3. Update the Postman collection link if you have one.
-
----
