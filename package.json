@@ -1,0 +1,25 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Abuhamida/soft_app1#readme",
+  "bugs": {
+    "url": "https://github.com/Abuhamida/soft_app1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuhamida/soft_app1.git"
+  },
+  "license": "ISC",
+  "author": "mohamed AbuHamida",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

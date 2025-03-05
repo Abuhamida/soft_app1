@@ -1,0 +1,42 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore debug files
+*.pid
+*.seed
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore npm/yarn cache
+.npm
+.yarn
+.yarnrc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore package-lock.json (if using yarn)
+package-lock.json
+
+# Ignore yarn.lock (if using npm)
+yarn.lock
+
+# Ignore local development files
+*.local
+.env
+
+# Ignore Supabase local emulator files (if used)
+.supabase/
